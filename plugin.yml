@@ -1,0 +1,18 @@
+main: de.FinnKrause.me.Main
+api-version: 1.13
+name: FinnsPluginII
+version: 1.0
+author: FinnKrause
+commands:
+  posi: 
+  home:
+  posis:
+  upgrade-unnormal:
+  upgrade:
+  enderperlen:
+  downgrade:
+  claimchunk:
+  message:
+  xpvillager:
+  answer:
+  steuern:
